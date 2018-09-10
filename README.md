@@ -1,1 +1,1 @@
-# unity-cookbook-2018-ch06-01-basic-scene-for-chapter
+# unity-cookbook-2018-ch07-01-basic-scene-for-chapter
